@@ -11,7 +11,7 @@ I'm **Aryan Kinha**, a first-year BTech student passionate about web development
 - **Other**: Video Editing
 
 ## Projects
-- [Project 1: My Portfolio]([link-to-portfolio](https://github.com/aryankinha/my-portfolio))
+- [Project 1: My Portfolio]((https://github.com/aryankinha/my-portfolio))
 
 ## Contact Me
 - Email: aryankinha2@gmail.com
