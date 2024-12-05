@@ -4,7 +4,8 @@ Welcome to my portfolio! 🎉
 
 ## About Me
 I'm **Aryan Kinha**, a first-year BTech student passionate about web development and game development. I enjoy building projects that challenge my skills and help me learn more.
-
+## Portfolio Hosted Link:
+https://aryankinha.github.io/my-portfolio/
 ## Skills
 - **Languages**: HTML, CSS, Python, MySQL
 - **Tools**: Git, GitHub, VS Code
